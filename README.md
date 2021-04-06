@@ -1,5 +1,5 @@
 To run the main script: 
-* cd to the root of the package, in my case: ````
+* cd to the root of the package, in my case: ``my-projects/IPAddressReader/``
 * Run the follwing command: ``python3 ip_address_reader/cli.py --path  resources/test-log-file.log --ip 180.76.15.0/24`` 
 or ``python3 ip_address_reader/cli.py --path  resources/test-log-file.log --ip 180.76.15.0/24``
 
